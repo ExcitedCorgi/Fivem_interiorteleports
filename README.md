@@ -1,7 +1,7 @@
 # /interiortp (interiorname)
 
 # Fivem InteriorTeleports
-A simple script that makes a command so you can teleport between any interior that you cannot normally reach.
+A simple script that makes a command so you can teleport between any interior that you normally can't reach.
 Here's a list of all the possible places you can teleport
 
 doomsday doomsdaysub iaafacility
