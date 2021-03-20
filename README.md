@@ -1,5 +1,3 @@
-# By ExcitedCorgi
-
 # Fivem InteriorTeleports
 A simple script that makes a command so you can teleport between any interior that you cannot normally reach.
 Here's a list of all the possible places you can teleport
