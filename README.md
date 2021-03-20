@@ -16,3 +16,6 @@ If the name includes something like 1-3 that means you can select a number betwe
 # REQUIREMENTS
 You will need some sort of way to enable these interiors, a perfect resourse for this is bob74_ipl
 https://github.com/Bob74/bob74_ipl
+
+# How it works?
+It's not that hard at all to understand, it takes the argument after the command and goes through an elseif. If the argument is seen as a valid name for an interior it'll simply teleport you to the coordinates. If the argument isn't valid, it'll send the person a list of valid interiors in the chat. This takes up 7 lines, so if you don't have default chat it may be cut off.
